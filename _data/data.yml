@@ -150,6 +150,14 @@ education:
   description: |
 
   items:
+    - institution: South East Technological University Waterford
+      link: 'https://www.setu.ie'
+      date: 2024
+      major: Bachelors in Creative Computing
+      degree: Bachelor level 7
+      description: |
+        + The BSc course has a strong focus on cumputing and animation.
+
     - institution: Pulse Collage Dublin 
       link:
       date: 2023 - 2024
@@ -159,15 +167,23 @@ education:
         + This course covers the full range of topics from drawing skills to 3D modelling,
         3D lighting, character texturing, character animating, environmental modelling, animation rendering, 
         and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
-
-  items:
-    - institution: South East Technological University Waterford
-      link: 'https://www.setu.ie'
-      date: 2024
-      major: Bachelors in Creative Computing
-      degree: Bachelor level 7
+    
+    - institution: WWETB 
+      link:
+      date: 2017
+      major: Reception and Frontline Office
+      degree: QQI Level 5
       description: |
-        + The BSc course has a strong focus on cumputing and animation.
+
+
+    - institution: K&V Secondary School
+      link:
+      date: 1998 - 2002
+      major: Business in Sale
+      degree: Level 5
+      description: |    
+
+    
 
 certificate:
   show: true
