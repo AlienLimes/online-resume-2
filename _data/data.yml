@@ -123,7 +123,6 @@ experience:
         + Banking and dealing with cash and cheque
         + Store Inventory control and report
         
-
     - company: Waterford and South Tipperary Community Youth Service, Manor Street
       link:
       tags: Part-time
@@ -133,7 +132,6 @@ experience:
       description: |
         + Updating paperwork, maintaining documents, and word processing.
         
-
     - company: Aphrodite Beauty
       link:
       tags: Full-time
@@ -152,13 +150,15 @@ education:
   description: |
 
   items:
-    - institution: South East Technological University Waterford
-      link: 'https://www.setu.ie'
-      date: 2024
-      major: Bachelors in Creative Computing
-      degree: Bachelor level 7
+    - institution: Pulse Collage Dublin 
+      link:
+      date: 2023 - 2024
+      major: Certificate in Animation
+      degree: NFQ Level 6
       description: |
-        + The BSc course has a strong focus on cumputing and animation
+        + This course covers the full range of topics from drawing skills to 3D modelling,
+        3D lighting, character texturing, character animating, environmental modelling, animation rendering, 
+        and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
 
   items:
     - institution: Pulse Collage Dublin 
@@ -170,7 +170,6 @@ education:
         + This course covers the full range of topics from drawing skills to 3D modelling,
         3D lighting, character texturing, character animating, environmental modelling, animation rendering, 
         and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
-
 
 certificate:
   show: true
