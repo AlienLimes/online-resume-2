@@ -83,9 +83,10 @@ profile:
   order: 1
   title: Profile
   description: |
-  A very committed, trustworthy, and driven individual with a lifelong interest in arts and design. Proficiency in both nail art design and small business management. 
-  Gained useful experience as an office clerk, as well as enhanced time management and customer service abilities. 
-  Believe in lifelong learning therefore continuesly focus on upskilling.
+
+    A very committed, trustworthy, and driven individual with a lifelong interest in arts and design. Proficiency in both nail art design and small business management. 
+    Gained useful experience as an office clerk, as well as enhanced time management and customer service abilities. 
+    Believe in lifelong learning therefore continuesly focus on upskilling.
    
 experience:
   show: true
