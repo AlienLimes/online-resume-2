@@ -161,15 +161,13 @@ education:
         and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
 
   items:
-    - institution: Pulse Collage Dublin 
-      link:
-      date: 2023 - 2024
-      major: Certificate in Animation
-      degree: NFQ Level 6
+    - institution: South East Technological University Waterford
+      link: 'https://www.setu.ie'
+      date: 2024
+      major: Bachelors in Creative Computing
+      degree: Bachelor level 7
       description: |
-        + This course covers the full range of topics from drawing skills to 3D modelling,
-        3D lighting, character texturing, character animating, environmental modelling, animation rendering, 
-        and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
+        + The BSc course has a strong focus on cumputing and animation.
 
 certificate:
   show: true
