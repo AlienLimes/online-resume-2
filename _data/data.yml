@@ -171,21 +171,6 @@ education:
         3D lighting, character texturing, character animating, environmental modelling, animation rendering, 
         and 2D animation, Comic Books and Sequential Art, Animation for Video Games.
 
-  items:
-    - institution: WWETB 
-      link:
-      date: 2017
-      major: Reception and Frontline Office
-      degree: QQI Level 5
-      description: |
-
-
-    - institution: K&V Secondary School
-      link:
-      date: 1998 - 2002
-      major: Business in Sale
-      degree: Level 5
-      description: |
 
 certificate:
   show: true
