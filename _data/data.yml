@@ -1,0 +1,376 @@
+basic:
+  name: Krisztina Molnar                      # name
+  title: University Student           # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /assets/images/profile.png # avatar file path
+
+contact:
+  # meta
+  location: Waterford, Ireland
+  email: 20111337@mail.wit.ie    # email address yo
+  phone: +353 87-9749176  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  # website:      # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender:                  # gender or pronoun
+  birthday:                # birthday
+  nationality:             # nationality
+  visa:                    # passport visa
+  drivinglicense:          # Full driving licence
+
+  # contact
+  wechat:                  # username
+  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github:                  #AlienLime          | https://github.com/AlienLime
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin:                # tibor-molnar-564293106 | https://linkedin.com/in/tibor-molnar-564293106
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube:                 # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+  A very committed, trustworthy, and driven individual with a lifelong interest in arts and design. Proficiency in both nail art design and small business management. 
+  Gained useful experience as an office clerk, as well as enhanced time management and customer service abilities. 
+  Believe in lifelong learning therefore continuesly focus on upskilling.
+   
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  description: | 
+
+  items:
+    - company: Waterford Youth Arts
+      link: 'https://www.waterfordyoutharts.com/'
+      tags: Part-time
+      date: 2022
+      role: Office Clerk
+      location: Waterford, Ireland
+      description: |
+        + Admonistration duties
+
+    - company: Waterford Castle Hotel & Golf Resort, Waterford Ireland
+      link: 'https://www.waterfordcastleresort.com/'
+      tags: Full-time, on-site
+      date: 2019 - 2020
+      role: Hospitality
+      location: Waterford, Ireland
+      description: |
+        + Restaurant service assistant
+
+    - company: The Range
+      link:
+      tags: Part-time
+      date: 2018 - 2019
+      role: Office Administrator
+      location: Waterford, Ireland
+      description: |
+        + Banking and dealing with cash and cheque
+        + Store Inventory control and report
+        
+
+    - company: Waterford and South Tipperary Community Youth Service, Manor Street
+      link:
+      tags: Part-time
+      date: 2017 - 2018
+      role: Office Clerk
+      location: Waterford, Ireland
+      description: |
+        + Updating paperwork, maintaining documents, and word processing.
+        
+
+    - company: Aphrodite Beauty
+      link:
+      tags: Full-time
+      date: 2012 - 2016
+      role: Beauty Therapist, Nail Technician
+      location: Waterford, Ireland
+      description: |
+        + Nail arts
+        + Nail design
+        + Other therapies on request
+
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
+
+  items:
+    - institution: South East Technological University Waterford
+      link: https://www.setu.ie
+      date: 2024
+      major: Bachelors in Creative Computing
+      degree: Bachelor level 7
+      description: |
+
+  items:
+    - institution: Pulse Collage Dublin 
+      link: 
+      date: 2023 - 2024
+      major: Certificate in Animation
+      degree: NFQ Level 6
+      description: |
+
+  items:
+    - institution: WWETB 
+      link:
+      date: 2017
+      major: Reception and Frontline Office
+      degree: QQI Level 5
+      description: |
+
+
+    - institution: K&V Secondary School
+      link:
+      date: 1998 - 2002
+      major: Business in Sale
+      degree: Level 5
+      description: |
+
+certificate:
+  show: true
+  order: 6
+  title: Certificates
+  description: |
+
+  items:
+    - name: Graphic Design and Illustration using Adobe Illustrator
+      issuer: ECollage
+      date: 2023
+      link:
+      description: |
+        Adobe certified associate in Adobe Illustrator
+    - name: Visual Design using Adobe Photoshop
+      issuer: 
+      date: 2022
+      link:
+      description: |
+        Adobe certified associate in Adobe Photoshop
+    - name: Payroll and Computerised Accounts
+      issuer: SETU
+      date: 2021
+      link:
+      description: |
+        Payroll and Computerised Accounts module (10ECTS)
+
+
+#publication:
+ # show: true
+  #order: 7
+  #title: Publications
+  #description: |
+   # The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
+
+    #Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
+
+    #If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
+
+    #Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
+
+  #items:
+   # - title: Example Publication in Action
+   #   authors: Foo Bar
+   #   conference: Foobar, 2019
+   #   link: '#'
+   # - title: The Art of Example Publication
+   #   authors: Foo Bar
+   #   conference: Foobar, 2019
+   #   link:
+
+#award:
+#  show: true
+#  order: 8
+#  title: Awards
+#  description: |
+#    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
+
+#   When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
+
+#    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
+
+#  items:
+#    - name: Example Awared One
+#      awarder: by Example
+#      date: 2022
+#      link: '#'
+#      description: |
+#        It's my Example Awared One by Example.
+#    - name: Example Awared Two
+#      awarder: by Example
+#      date: 2022
+#      link:
+#      description: |
+#        It's my Example Awared Two by Example.
+
+#patent:
+#  show: true
+#  order: 9
+#  title: Patents
+#  description: |
+#    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+
+#    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+
+#    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+
+#    Template for a pending patent:
+
+#    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+
+#    Template for an approved patent:
+
+#    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+
+#    The following are some examples of patent formats.
+
+#    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+#    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+
+#organization:
+#  show: true
+#  order: 10
+#  title: Organizations
+#  description: |
+#    The organization section in a resume, specifically for social contexts, is a section where you can showcase any
+#    relevant involvement or leadership positions in social, cultural, or community organizations.
+#    This section can highlight your commitment to social causes and your ability to work collaboratively with others
+#    towards a common goal.
+
+#    In this section, you can list the name of the organization, your role and responsibilities,
+#    the duration of your involvement, and any significant achievements or accomplishments.
+#    You can also mention any skills or qualities you gained from your involvement, such as leadership,
+#    teamwork, communication, or problem-solving skills.
+
+#    This section can be especially valuable for candidates seeking positions in the non-profit sector,
+#    social work, or community engagement roles, where experience in social or cultural organizations
+#    can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards
+#    social change. However, it is important to only include organizations that are relevant to the job you are
+#    applying for, and avoid listing organizations that may be controversial or potentially offensive.
+
+language:
+  show: true
+  order: 11
+  title: Languages
+  description: |
+
+  items:
+    - idiom: Hungarian
+      level: Native
+    - idiom: English
+      level: Professional
+    - idiom: German
+      level: Basic
+
+interest:
+  show: true
+  order: 12
+  title: Interests
+  description: |
+
+  items:
+    - item: Photography
+      link:
+    - item: Cooking
+      link:
+
+#evaluation:
+#  show: true
+#  order: 13
+#  title: Self-evaluation
+#  description: |
+#    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills,
+#    strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume,
+#    which provides a personal perspective on your abilities and how they align with the requirements of the job.
+
+#    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences
+#    that set you apart from other candidates. You can also mention areas where you are looking to improve or gain
+#    further experience.
+
+#    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities,
+#    as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid
+#    over-inflating your skills or qualifications, as this can negatively impact your credibility and
+#    the hiring manager's impression of you.
+
+reference:
+  show: true
+  order: 14
+  title: References
+  description: |
+    References upon request.
+#  items:
+#    - name: Foo One
+#      link: '#'
+#      title: Backend Developer
+#      institution: Second Company
+#      address: 1234 Example St, XXX, XY 11111
+#      email: foo.one@example.com
+#      phone: 111-222-333
+#      description: |
+#        Foo One was my colleague in Second Company.
+
+#    - name: Bar Two
+#      link:
+#      title: Professor
+#      institution: Example University
+#      address: 4321 Example St, YYY, XY 22222
+#      email: bar.two@example.com
+#      phone: 444-555-666
+#      description: |
+#        Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>
